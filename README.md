@@ -1,2 +1,3 @@
-# phaser3game
-Experimenting with Phaser3 and React
+# Experiment with Phaser 3 and React-Typescript
+
+As per title.
